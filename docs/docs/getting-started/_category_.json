@@ -3,6 +3,6 @@
     "position": 2,
     "link": {
       "type": "generated-index",
-      "description": "Get started using GeleBot."
+      "description": "Get started using GeleBot. (Note: might want to remove this as dropdown)"
     }
   }

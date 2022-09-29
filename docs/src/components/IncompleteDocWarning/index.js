@@ -7,7 +7,7 @@ export default function IncompleteDocWarning() {
         <div>
             This documentation is incomplete. 
             <br/>
-            If you want to help, please see our guide for <a href="./how-to-contribute">How to Contribute</a>.
+            If you want to help, please see our guide for <a href="/developer/how-to-contribute">How to Contribute</a>.
         </div>
     )
 }
