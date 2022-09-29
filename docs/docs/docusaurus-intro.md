@@ -1,6 +1,5 @@
 ---
-sidebar_position: 1
-slug: /
+sidebar_position: 7
 ---
 
 # Docusaurus Intro
