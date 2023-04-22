@@ -1,0 +1,25 @@
+{
+  "name": "gelebot",
+  "version": "1.0.0",
+  "description": "Open-Source Discord bot for Celtic Heroes",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbm20/GeleBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rbm20/GeleBot/issues"
+  },
+  "homepage": "https://github.com/rbm20/GeleBot#readme",
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "dotenv": "^16.0.3"
+  }
+}
